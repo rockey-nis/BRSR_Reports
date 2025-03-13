@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+venv/
+.env
+*.env
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+
+# Ignore Docker-related files
+*.dockerignore
+docker-compose.override.yml
