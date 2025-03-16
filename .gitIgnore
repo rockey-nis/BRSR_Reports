@@ -1,0 +1,41 @@
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+
+# Logs & Debugging
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace

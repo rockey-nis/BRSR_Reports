@@ -1,0 +1,12 @@
+langchain==0.3.12 
+langchain-core==0.3.33 
+pydantic==2.10.3 
+google-generativeai==0.8.3 
+pdfplumber 
+pandas 
+hashlib
+psycopg2
+boto3
+python-dotenv
+pytz
+flask
